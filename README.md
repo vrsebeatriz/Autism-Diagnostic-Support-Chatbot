@@ -16,3 +16,5 @@ O sistema utiliza ontologias para estruturar conceitos clínicos e relações se
 ## Contexto
 
 Projeto acadêmico desenvolvido no contexto de pesquisa em computação aplicada à saúde.
+
+O código não está disponível publicamente por se tratar de um projeto institucional. 
