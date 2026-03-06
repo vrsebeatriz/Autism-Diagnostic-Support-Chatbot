@@ -8,10 +8,10 @@ O sistema utiliza ontologias para estruturar conceitos clínicos e relações se
 
 ## Conceitos utilizados
 
-Ontologias
-Representação de conhecimento
-Modelagem semântica
-Sistemas conversacionais
+- Ontologias
+- Representação de conhecimento
+- Modelagem semântica
+- Sistemas conversacionais
 
 ## Contexto
 
